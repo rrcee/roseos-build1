@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "os.rose.launcher.app-debug-39:/drawable-hdpi_tv_banner.png.flat",
+        "source": "os.rose.launcher.app-pngs-35:/drawable-hdpi/tv_banner.png"
+    },
+    {
+        "merged": "os.rose.launcher.app-debug-39:/font_space_grotesk.ttf.flat",
+        "source": "os.rose.launcher.app-main-41:/font/space_grotesk.ttf"
+    },
+    {
+        "merged": "os.rose.launcher.app-debug-39:/font_inter.ttf.flat",
+        "source": "os.rose.launcher.app-main-41:/font/inter.ttf"
+    },
+    {
+        "merged": "os.rose.launcher.app-debug-39:/font_instrument_serif_italic.ttf.flat",
+        "source": "os.rose.launcher.app-main-41:/font/instrument_serif_italic.ttf"
+    },
+    {
+        "merged": "os.rose.launcher.app-debug-39:/font_doto.ttf.flat",
+        "source": "os.rose.launcher.app-main-41:/font/doto.ttf"
+    },
+    {
+        "merged": "os.rose.launcher.app-debug-39:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "os.rose.launcher.app-main-41:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "os.rose.launcher.app-debug-39:/drawable-xxhdpi_tv_banner.png.flat",
+        "source": "os.rose.launcher.app-pngs-35:/drawable-xxhdpi/tv_banner.png"
+    },
+    {
+        "merged": "os.rose.launcher.app-debug-39:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "os.rose.launcher.app-main-41:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "os.rose.launcher.app-debug-39:/drawable-ldpi_tv_banner.png.flat",
+        "source": "os.rose.launcher.app-pngs-35:/drawable-ldpi/tv_banner.png"
+    },
+    {
+        "merged": "os.rose.launcher.app-debug-39:/drawable-xhdpi_tv_banner.png.flat",
+        "source": "os.rose.launcher.app-pngs-35:/drawable-xhdpi/tv_banner.png"
+    },
+    {
+        "merged": "os.rose.launcher.app-debug-39:/drawable-mdpi_tv_banner.png.flat",
+        "source": "os.rose.launcher.app-pngs-35:/drawable-mdpi/tv_banner.png"
+    },
+    {
+        "merged": "os.rose.launcher.app-debug-39:/drawable-anydpi-v24_tv_banner.xml.flat",
+        "source": "os.rose.launcher.app-pngs-35:/drawable-anydpi-v24/tv_banner.xml"
+    },
+    {
+        "merged": "os.rose.launcher.app-debug-39:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "os.rose.launcher.app-main-41:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "os.rose.launcher.app-debug-39:/drawable-xxxhdpi_tv_banner.png.flat",
+        "source": "os.rose.launcher.app-pngs-35:/drawable-xxxhdpi/tv_banner.png"
+    }
+]

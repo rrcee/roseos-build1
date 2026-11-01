@@ -1,0 +1,43 @@
+os.rose.launcher.app-lifecycle-viewmodel-compose-release-0 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\0b6a7ba74cd5555a42ef54ef9ecf518c\transformed\lifecycle-viewmodel-compose-release\res
+os.rose.launcher.app-lifecycle-runtime-ktx-release-1 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\137efedbbb61fcc85ab23423b88fd3dd\transformed\lifecycle-runtime-ktx-release\res
+os.rose.launcher.app-core-1.13.1-2 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\13e9fb277ffa55e2efebcc807dbc59f8\transformed\core-1.13.1\res
+os.rose.launcher.app-ui-text-release-3 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\1e18421df262361b831d11adaaa7414f\transformed\ui-text-release\res
+os.rose.launcher.app-activity-ktx-1.9.3-4 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\2173a07dff91dbb3a13bda996908587d\transformed\activity-ktx-1.9.3\res
+os.rose.launcher.app-ui-geometry-release-5 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\2744ae6f92c1cbbfe5cdc6dc002c77c7\transformed\ui-geometry-release\res
+os.rose.launcher.app-ui-unit-release-6 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\397c423a19c390aacf691121fcdf73f2\transformed\ui-unit-release\res
+os.rose.launcher.app-core-ktx-1.13.1-7 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\3af79b6bee9837e6013620e93c00f920\transformed\core-ktx-1.13.1\res
+os.rose.launcher.app-animation-release-8 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\4524dfa919db4a598ec56f9dc078cad6\transformed\animation-release\res
+os.rose.launcher.app-animation-core-release-9 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\48102c4182a61b63c503d0a8066c132b\transformed\animation-core-release\res
+os.rose.launcher.app-lifecycle-viewmodel-ktx-2.8.7-10 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\55c98877ac50a5f036e3dc197694f80a\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+os.rose.launcher.app-runtime-release-11 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\5e756a6b3942f40fb82c3fec36647599\transformed\runtime-release\res
+os.rose.launcher.app-graphics-path-1.0.1-12 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\7feb24f3a60b178112bba259aa9fd5da\transformed\graphics-path-1.0.1\res
+os.rose.launcher.app-lifecycle-process-2.8.7-13 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\827890458e7205a872658023ca1cc1c7\transformed\lifecycle-process-2.8.7\res
+os.rose.launcher.app-profileinstaller-1.3.1-14 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\830f0c7dbd62bb48e2c695b73893428f\transformed\profileinstaller-1.3.1\res
+os.rose.launcher.app-ui-release-15 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\835ca6a88c04e1d2de63c1590834a9cb\transformed\ui-release\res
+os.rose.launcher.app-annotation-experimental-1.4.1-16 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\8450e048d333a8c755755d90a0b83689\transformed\annotation-experimental-1.4.1\res
+os.rose.launcher.app-foundation-release-17 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\853b694dae294c9e1c4b70e9434aa016\transformed\foundation-release\res
+os.rose.launcher.app-activity-compose-1.9.3-18 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\85478d566d58e99752b60243dd91bfbd\transformed\activity-compose-1.9.3\res
+os.rose.launcher.app-runtime-saveable-release-19 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\8a59943a0b4bf9e6e71a336d070ec333\transformed\runtime-saveable-release\res
+os.rose.launcher.app-lifecycle-viewmodel-savedstate-2.8.7-20 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\907b857b14a2d0f8e21f505c17076b8a\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+os.rose.launcher.app-core-runtime-2.2.0-21 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\a6e76470f985bc8557550a707e25050b\transformed\core-runtime-2.2.0\res
+os.rose.launcher.app-savedstate-ktx-1.2.1-22 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\a9e6f9fe5d100d34d04ce738184a7d45\transformed\savedstate-ktx-1.2.1\res
+os.rose.launcher.app-lifecycle-runtime-release-23 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\aa658d95c931927cf6f4cbbc63014c68\transformed\lifecycle-runtime-release\res
+os.rose.launcher.app-lifecycle-viewmodel-release-24 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\ab439bf0ee0bd4995152ba76549413a0\transformed\lifecycle-viewmodel-release\res
+os.rose.launcher.app-activity-1.9.3-25 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\b951dc3831a14708855a8cad6a788fba\transformed\activity-1.9.3\res
+os.rose.launcher.app-emoji2-1.3.0-26 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\bd6f95dcd6c1f117cf0bf309e8404f93\transformed\emoji2-1.3.0\res
+os.rose.launcher.app-savedstate-1.2.1-27 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\c05c95042f78f44a9d3095239047b936\transformed\savedstate-1.2.1\res
+os.rose.launcher.app-lifecycle-livedata-core-2.8.7-28 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\cd37bc2db23e62fa825484316c124505\transformed\lifecycle-livedata-core-2.8.7\res
+os.rose.launcher.app-startup-runtime-1.1.1-29 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\d877a1d6f70cf5828631b3884d79ca44\transformed\startup-runtime-1.1.1\res
+os.rose.launcher.app-ui-graphics-release-30 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\db29939647587cb5a1a7f654e0e081bb\transformed\ui-graphics-release\res
+os.rose.launcher.app-customview-poolingcontainer-1.0.0-31 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\df56aed0d05fa6d6e5d6ca225240f2d0\transformed\customview-poolingcontainer-1.0.0\res
+os.rose.launcher.app-ui-util-release-32 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\e423761a99058ad8c34049eb351dc2e2\transformed\ui-util-release\res
+os.rose.launcher.app-lifecycle-runtime-compose-release-33 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\f29d745fae7bb08a4dc36e01a05202a2\transformed\lifecycle-runtime-compose-release\res
+os.rose.launcher.app-foundation-layout-release-34 C:\Users\Rishi\.gradle\caches\8.11.1\transforms\f68c443b28d8bfd80a8f58d67888b1dd\transformed\foundation-layout-release\res
+os.rose.launcher.app-pngs-35 C:\Users\Rishi\Downloads\rose os\app\build\generated\res\pngs\release
+os.rose.launcher.app-resValues-36 C:\Users\Rishi\Downloads\rose os\app\build\generated\res\resValues\release
+os.rose.launcher.app-packageReleaseResources-37 C:\Users\Rishi\Downloads\rose os\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+os.rose.launcher.app-packageReleaseResources-38 C:\Users\Rishi\Downloads\rose os\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+os.rose.launcher.app-merged-not-compiled-resources-39 C:\Users\Rishi\Downloads\rose os\app\build\intermediates\merged-not-compiled-resources\release
+os.rose.launcher.app-release-40 C:\Users\Rishi\Downloads\rose os\app\build\intermediates\merged_res\release\mergeReleaseResources
+os.rose.launcher.app-main-41 C:\Users\Rishi\Downloads\rose os\app\src\main\res
+os.rose.launcher.app-release-42 C:\Users\Rishi\Downloads\rose os\app\src\release\res
